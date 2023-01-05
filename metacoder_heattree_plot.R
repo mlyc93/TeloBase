@@ -1,6 +1,6 @@
 #The script was simplified from the TeloBase version given it does not contain interactivity necessary in the web application (inputs replaced with a static choice and conditional branching whether to show modal window was removed,
 #parts of the script for input checking remained in and are commented upon within the code)
-library(metacoder) #IMPORTANT - requires 0.3.5.2 (development verison)
+library(metacoder) #IMPORTANT - requires 0.3.5 version due to reintegration of taxa functionality (available at https://github.com/grunwaldlab/metacoder/releases)
 library(stringi)
 library(plotly)
 
